@@ -1,5 +1,6 @@
+//
 // La función devuelve un arreglo conteniendo los cuadrados de los enteros positivos
-
+//
 
 let arr = [-3, 4.8, 5, 3, -3.2];
 

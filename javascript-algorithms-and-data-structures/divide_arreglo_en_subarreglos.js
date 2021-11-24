@@ -1,5 +1,6 @@
+//
 // Divide un arreglo "arr" en subarreglos de longitud "size", y los devuelve en un arreglo bidimensional
-
+//
 
 function chunkArrayInGroups(arr, size) {
 

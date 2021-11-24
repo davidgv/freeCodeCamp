@@ -1,5 +1,6 @@
+//
 // Aplana un arreglo anidado ( sin utilizar Array.flat() ni Array.flatMap() )
-
+//
 
 function steamrollArray(arr) {
   let arr2=[];

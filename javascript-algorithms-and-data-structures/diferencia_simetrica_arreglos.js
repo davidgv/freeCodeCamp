@@ -1,5 +1,6 @@
+//
 // Devuelve la diferencia simétrica (elementos que solo están en uno u otro) entre dos arreglos
-
+//
 
 function diffArray(arr1, arr2) {
   const newArr = [];

@@ -1,5 +1,6 @@
+//
 // Ordena un array de números sin usar sort() para no modificar el original (según prog. funcional)
-
+//
 
 const globalArray = [5, 6, 3, 2, 9];
 console.log(globalArray);

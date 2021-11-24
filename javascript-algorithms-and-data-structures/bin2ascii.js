@@ -1,5 +1,6 @@
+//
 // Devuelve una frase traducida al inglés de una cadena binaria pasada
-
+//
 
 function binaryAgent(str) {
 

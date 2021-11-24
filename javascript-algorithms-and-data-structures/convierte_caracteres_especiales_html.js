@@ -1,5 +1,6 @@
+//
 // Convierte los caracteres &, <, >, " (dobles comillas), y ' (apóstrofo), en un cadena con su correspondiente entidad HTML.
-
+//
 
 function convertHTML(str) {
   let newStr='';
