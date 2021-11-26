@@ -1,7 +1,7 @@
 # freeCodeCamp
 Ejercicios realizados en freeCodeCamp
 
-El material publicado en este repositorio son soluciones a ejercicios propuestos en los cursos de freeCodeCamp.
+En este repositorio publico soluciones a ejercicios propuestos en las certificaciones de freeCodeCamp.
 
 No están todos, solo aquellos que considero más interesantes y que pueden servir como snippets o ideas.
 
